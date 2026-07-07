@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yashinrush/DSA-Journey/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashinrush/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yashinrush/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashinrush/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashinrush/DSA-Journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yashinrush/DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashinrush/DSA-Journey/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
