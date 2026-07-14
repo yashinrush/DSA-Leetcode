@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashinrush/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashinrush/DSA-Journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yashinrush/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/yashinrush/DSA-Journey/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/yashinrush/DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashinrush/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -69,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/yashinrush/DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
