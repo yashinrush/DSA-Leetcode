@@ -16,5 +16,16 @@ class Solution {
         }
 
         return ms;
+
+        //brute force
+        // int maxsum=Integer.MIN_VALUE;
+        // for(int i=0; i<nums.length;i++){
+        //     int currsum=0;
+        //     for(int j=i; j<nums.length;j++){
+        //         currsum += nums[j];
+        //         maxsum=Math.max(maxsum,currsum);
+        //     }
+        // }             
+        // return maxsum;
     }
 }
