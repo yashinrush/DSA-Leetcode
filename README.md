@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashinrush/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashinrush/DSA-Journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yashinrush/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/yashinrush/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/yashinrush/DSA-Journey/tree/master/0867-transpose-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashinrush/DSA-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yashinrush/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashinrush/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
