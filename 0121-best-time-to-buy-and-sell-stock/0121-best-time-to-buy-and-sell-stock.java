@@ -3,9 +3,10 @@ class Solution {
         int buyprice = Integer.MAX_VALUE;
         int maxprofit = 0;
 
-        for(int i=0 ; i<prices.length; i++){
-            if(buyprice < prices[i]){
+        for(int i = 0; i<prices.length; i++){
+            if(prices[i] > buyprice ){
                 int profit = prices[i] - buyprice;
+
                 maxprofit = Math.max(maxprofit, profit);
             }else{
                 buyprice = prices[i];
