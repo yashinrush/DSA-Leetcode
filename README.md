@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashinrush/DSA-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yashinrush/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
+| [1496-path-crossing](https://github.com/yashinrush/DSA-Journey/tree/master/1496-path-crossing) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashinrush/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yashinrush/DSA-Journey/tree/master/0020-valid-parentheses) |
+| [1496-path-crossing](https://github.com/yashinrush/DSA-Journey/tree/master/1496-path-crossing) |
 ## Bit Manipulation
 |  |
 | ------- |
