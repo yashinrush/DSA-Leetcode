@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yashinrush/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yashinrush/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [1496-path-crossing](https://github.com/yashinrush/DSA-Journey/tree/master/1496-path-crossing) |
+| [2129-capitalize-the-title](https://github.com/yashinrush/DSA-Journey/tree/master/2129-capitalize-the-title) |
 ## Bit Manipulation
 |  |
 | ------- |
