@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yashinrush/DSA-Journey/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/yashinrush/DSA-Journey/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
